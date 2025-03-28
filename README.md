@@ -11,7 +11,7 @@ To write a python program to find the inverse of a matrix
 ### Step 4: 
 
 ## Program:
-![image](https://github.com/user-attachments/assets/de55764a-d929-44db-8f0e-6fe34ab8671b)
+![Screenshot 2025-03-28 190820](https://github.com/user-attachments/assets/52b2db24-ce31-448e-9043-32314fbf0010)
 
 ## Output:
 ![Screenshot 2025-03-28 190842](https://github.com/user-attachments/assets/f70cd2e6-9e31-46fc-b6c0-962f76751f09)
